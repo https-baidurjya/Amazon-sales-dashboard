@@ -1,1 +1,1 @@
-# Amazon-sales-dashboard
+Amazon overview analysis for 1st april 2022 to 30th june 2022. This overview analysis is about total amount by states, total amount by cities, total amount by date etc. Amazon product analysis for 1st june 2024 to 30th june 2024 is about product category & product name's. This product view is about total sales amount, total sales unit and total reviews got from customers. Data sourece by Github
